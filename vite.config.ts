@@ -15,7 +15,6 @@ const config = defineConfig({
         preset: 'vercel'
       }
     }),
-    viteReact(),
   ],
 })
 
