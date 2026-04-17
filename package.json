@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite dev --port 3000",
-    "build": "vite build"
+    "dev": "vinxi dev",
+    "build": "vinxi build"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.80.0",
