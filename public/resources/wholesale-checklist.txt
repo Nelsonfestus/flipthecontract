@@ -1,0 +1,131 @@
+===============================================
+  FLIP THE CONTRACT — WHOLESALE DEAL CHECKLIST
+  Step-by-Step Guide from Lead to Closing
+===============================================
+
+This checklist walks you through every step of a wholesale real estate deal.
+Print it, save it, and use it on every deal until it becomes second nature.
+
+
+PHASE 1: FINDING THE DEAL
+--------------------------
+[ ] Identify your target market (city, zip codes, neighborhoods)
+[ ] Pull a motivated seller list (probate, pre-foreclosure, tax delinquent, absentee owners, vacant properties)
+[ ] Skip trace the list for owner phone numbers and emails
+[ ] Begin outreach campaign:
+    [ ] Cold calling (use scripts from FTC)
+    [ ] Direct mail (use marketing templates from FTC)
+    [ ] SMS/text campaigns (follow TCPA rules)
+    [ ] Driving for dollars
+[ ] Track all leads in your CRM
+[ ] Follow up with every lead at least 5 times
+
+
+PHASE 2: ANALYZING THE DEAL
+-----------------------------
+[ ] Get the property address and owner info
+[ ] Pull comparable sales (comps) — look at sold properties within 0.5 miles, last 6 months
+[ ] Determine After Repair Value (ARV)
+[ ] Estimate repair costs (get contractor bids if possible)
+[ ] Calculate Maximum Allowable Offer (MAO):
+    MAO = ARV x 0.70 - Repair Costs - Your Assignment Fee
+[ ] Verify there are no major title issues (liens, judgments, code violations)
+[ ] Confirm the seller's motivation and timeline
+
+
+PHASE 3: LOCKING UP THE CONTRACT
+----------------------------------
+[ ] Present your offer to the seller (verbal first, then written)
+[ ] Use the correct contract for your state (see FTC Contract Templates)
+[ ] Key contract clauses to include:
+    [ ] "And/or assigns" after your name (allows assignment)
+    [ ] Inspection contingency (gives you an exit)
+    [ ] Earnest money terms (keep it low — $10 to $100 for motivated sellers)
+    [ ] Closing date (30-45 days gives you time to find a buyer)
+[ ] Get the contract signed by all parties
+[ ] Deliver earnest money to the title company or escrow
+[ ] Open escrow with an investor-friendly title company
+
+
+PHASE 4: FINDING A BUYER (DISPOSITION)
+----------------------------------------
+[ ] Blast the deal to your buyer list (use FTC Disposition Email Templates)
+[ ] Post in local real estate investor Facebook groups
+[ ] List on real estate investor marketplaces
+[ ] Contact hedge fund buyers and investment brokerages (see FTC Buyer Lists)
+[ ] Include all key details:
+    [ ] Property address
+    [ ] ARV and comps
+    [ ] Repair estimate
+    [ ] Assignment price
+    [ ] Photos (exterior + interior if available)
+[ ] Respond to buyer inquiries within 1 hour
+[ ] Schedule property showings or provide lockbox access
+[ ] Collect proof of funds (POF) from serious buyers
+
+
+PHASE 5: ASSIGNING THE CONTRACT
+---------------------------------
+[ ] Negotiate your assignment fee with the buyer
+[ ] Prepare the Assignment of Contract (see FTC templates)
+[ ] Collect a non-refundable earnest money deposit from the buyer ($2,000-$5,000+)
+[ ] Send the signed assignment to the title company
+[ ] Provide the title company with:
+    [ ] Original purchase contract
+    [ ] Assignment of contract
+    [ ] Buyer's earnest money
+    [ ] Buyer's proof of funds
+
+
+PHASE 6: CLOSING THE DEAL
+----------------------------
+[ ] Stay in contact with the title company weekly
+[ ] Confirm clear title and no surprises
+[ ] Coordinate with the seller for any needed access or documents
+[ ] Confirm buyer's funding is ready
+[ ] Review the settlement statement (HUD-1 or closing disclosure)
+[ ] Verify your assignment fee is correct on the closing docs
+[ ] Attend closing (or arrange for mobile notary if remote)
+[ ] Collect your check!
+
+
+PHASE 7: POST-CLOSE
+---------------------
+[ ] Add the buyer to your repeat buyer list with notes on their preferences
+[ ] Follow up with the seller — ask for referrals
+[ ] Document the deal for your records (purchase price, ARV, fees, timeline)
+[ ] Celebrate the win and share in the FTC Community!
+[ ] Start finding your next deal
+
+
+=== QUICK REFERENCE: KEY FORMULAS ===
+
+Maximum Allowable Offer (MAO):
+  ARV x 0.70 - Repairs - Assignment Fee = MAO
+
+Assignment Fee Rule of Thumb:
+  $5,000 - $15,000 for single family
+  $10,000 - $50,000+ for multi-family or commercial
+
+Comp Selection Criteria:
+  - Same property type (SFR, multi-family, land)
+  - Within 0.5 miles (1 mile max in rural areas)
+  - Sold within last 6 months (12 months max)
+  - Similar bed/bath count and square footage
+  - Similar condition and lot size
+
+
+=== IMPORTANT REMINDERS ===
+
+- Always use state-specific contracts (see FTC Contracts & Legal section)
+- Never use your personal funds for earnest money — use an LLC or trust
+- Build relationships with 2-3 investor-friendly title companies
+- Your buyer list is your most valuable asset — grow it daily
+- Follow up is where the money is — most deals close after the 3rd-5th contact
+- Stay compliant with your state's wholesaling laws
+
+
+===============================================
+  Provided by Flip the Contract (FTC)
+  flipthecontract.com
+===============================================
